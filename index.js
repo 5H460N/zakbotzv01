@@ -63,9 +63,9 @@ let _scommand = JSON.parse(fs.readFileSync('./database/scommand.json'))
 
 banChats = true
 offline = false
-ownerNumber = ["@6285878313791"]
+ownerNumber = ["@917736652645"]
 targetpc = '60139571124'
-owner = '6285878313791'
+owner = '917736652645'
 fake = 'ʜᴇʟʟᴏ\nɪ ᴀᴍ ᴢᴀᴋʙᴏᴛᴢ'
 numbernye = '0'
 waktu = '-'
@@ -74,7 +74,7 @@ const vcard = 'BEGIN:VCARD\n'
             + 'VERSION:3.0\n'
             + 'FN:ɪ ᴀᴍ ᴢᴀᴋʙᴏᴛᴢ\n'
             + 'ORG:YNTKTS;\n'
-            + 'TEL;type=CELL;type=VOICE;waid=6285878313791:+62 858-7831-3791\n'
+            + 'TEL;type=CELL;type=VOICE;waid=917736652645:+917736652645\n'
             + 'END:VCARD'
 //=================================================//
 
